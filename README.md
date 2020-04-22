@@ -4,16 +4,14 @@
 <br><br>
   <h1>Covid19Tracker</h1>
   <br>
-  <center><img src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png" align ="center"  height="500px"</center>
+  &nbsp &nbsp &nbsp <center><img src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png" align ="center"  height="500px"</center>
   <br>
   <br>
   
-<center><img src="https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg" width="auto" height="30%"</center>
+&nbsp &nbsp &nbsp<img src="https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg"  height="300px"</center>
 <br>
 <br>
-
-<center><img src="https://user-images.githubusercontent.com/41236287/80016332-98df2600-84f0-11ea-80b1-0561dd0d5172.gif" width="auto" height="30%"</center>
-
+<img src="https://user-images.githubusercontent.com/41236287/80016332-98df2600-84f0-11ea-80b1-0561dd0d5172.gif">
 <br>
 <br>
 <b>Setup:</b>
