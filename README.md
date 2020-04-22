@@ -4,15 +4,15 @@
 <br><br>
   <h1>Covid19Tracker</h1>
   <br>
-  ![image](https://user-images.githubusercontent.com/41236287/80011836-09cf0f80-84ea-11ea-99d0-78bf0a46fa9b.png)
+  <center>![image](https://user-images.githubusercontent.com/41236287/80011836-09cf0f80-84ea-11ea-99d0-78bf0a46fa9b.png)</center>
   <br>
   <br>
   
-![Untitled-1](https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg)
+<center>![Untitled-1](https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg)</center>
 <br>
 <br>
 
-![Covid19Tackerv](https://user-images.githubusercontent.com/41236287/80016332-98df2600-84f0-11ea-80b1-0561dd0d5172.gif)
+<center>![Covid19Tackerv](https://user-images.githubusercontent.com/41236287/80016332-98df2600-84f0-11ea-80b1-0561dd0d5172.gif)</center>
 
 <br>
 <br>
@@ -21,6 +21,6 @@
   <br>
   Chart.js is used for Graphs.<br>
 <h2> Note:- </h2><br>
- <b>The Code Needs to Be ReFactored, though it is working fine with no errors , certain code section needs to be improved, specailly
-  statemangement. <b>
+ <b>The Code Needs to Be ReFactored, though it is working fine with no errors , certain code section needs to be improved, especially
+  State-Mangement. <b>
   
