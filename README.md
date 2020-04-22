@@ -4,7 +4,7 @@
 <br><br>
   <h1>Covid19Tracker</h1>
   <br>
-  <center><img align ="center" src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png" width="60vh"    height="20vh"</center>
+  <center><img align ="center" src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png"  height="250px"</center>
   <br>
   <br>
   
