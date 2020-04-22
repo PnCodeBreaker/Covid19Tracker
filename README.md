@@ -6,8 +6,8 @@
   <br>
   <p align="left">
   <img src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png" height="500px"></p>
-  <p align = "right">
-<img src="https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg" height="300px"></p>
+  <p align = "right"><img src="https://user-images.githubusercontent.com/41236287/80012410-eeb0cf80-84ea-11ea-8922-f15f98715904.jpg" height="300px"></p>
+
 <br>
 <br>
   <p align="center">
