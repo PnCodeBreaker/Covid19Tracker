@@ -1,0 +1,19 @@
+.mar{
+    margin-left: 8%;
+    margin-right:8%;
+    margin-top: 3vh;
+}
+.fon{
+    font-family: BalooPaaji2;
+    color: #ffffff;
+    font-weight: Semi-bold 600;
+    font-size: 3vh;
+    line-height: 3vh;
+}
+.icon{
+    cursor:pointer;
+    background: #ffffff;
+    height: 7vh;
+    width: 7vh;
+  }
+  

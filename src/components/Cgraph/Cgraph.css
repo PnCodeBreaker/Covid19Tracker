@@ -1,0 +1,37 @@
+.gcard {
+  margin-top:3vh;
+  position: relative;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-bottom: 3vh;
+  width:84%;
+  overflow: hidden;
+  background: #FFFFFF;
+  /*
+  height:28vh;
+  */
+  border-radius: 5px;
+}
+
+.ti1{
+  margin-left:8%;
+  margin-top: 2vh;
+  position: relative;
+  font-family: BalooPaaji2;
+  font-size: 3vh;
+  color:#0D1333;
+  margin-bottom: 0vh;
+}
+
+.graph{
+  position: relative;
+  margin-left:11%;
+  margin-right: 11%;
+  background-color: #f6f6f6;
+  margin-top: 0.5vh;
+  margin-bottom:1vh;
+  width:78%;
+  /*
+  height:21vh;
+  */
+}

@@ -1,0 +1,11 @@
+body{
+ background-color: #0D1333;
+
+}
+ @media screen and (min-width: 720px) {
+  .mq1{
+   max-width:721px;
+   margin:auto;
+   
+  }
+}

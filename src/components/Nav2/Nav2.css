@@ -1,0 +1,35 @@
+.nav2{
+    height: 7vh;
+    display: inline-flex;
+    position: relative;
+    margin-left: 30%;
+    margin-right: 30%;
+    width:40%;
+    overflow: hidden;
+}
+.p1{
+    padding: 1vh;
+    display: inline-block;
+    text-align: center;
+    font-family: BalooPaaji2;
+    color: #fff;
+    font-size: 2.5vh;
+    cursor: pointer;
+}
+.p1:hover{
+    opacity: 0.8;
+}
+.p2{
+    padding: 1vh;
+    display: inline-block;
+    text-align: center;
+    font-family: BalooPaaji2;
+    color: #fff;
+    opacity: 0.6;
+    font-size: 2.5vh;
+    cursor: pointer;
+    
+}
+.p2:hover{
+    opacity: 0.8;
+}
