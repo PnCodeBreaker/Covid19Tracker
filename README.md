@@ -1,10 +1,10 @@
 <b>This is a Covid19Tracker (CoronaVirus-Tracker) Web App made using React.js<b>
-  <br> For Now only India and World Data are shown <br>
+  <br> For Now only India and World Data are shown. <br>
   <h2>Live Website : - </h2>  https://pncodebreaker.github.io/Covid19Tracker/
 <br><br>
   <h1>Covid19Tracker</h1>
   <br>
-  <center><img src="https://user-images.githubusercontent.com/41236287/80011836-09cf0f80-84ea-11ea-99d0-78bf0a46fa9b.png" width="auto"    height="30%"</center>
+  <center><img src="https://user-images.githubusercontent.com/41236287/80018287-6c78d900-84f3-11ea-8282-4df5bc23e583.png" width="200px"    height="160px"</center>
   <br>
   <br>
   
